@@ -1,0 +1,8 @@
+{"url": "http://sp1.myinternetzone.com:8080/speedtest/upload.php", "lat": "30.7333", "lon": "76.7794", "name": "Chandigarh", "country": "India", "cc": "IN", "sponsor": "myInternet", "id": "18801", "host": "sp1.myinternetzone.com:8080", "d": 41.43535271397054, "latency": 59.386}
+TEST RUN AT: Sun Nov  3 11:22:17 2019with serialinf1115
+
+-----------------------------------------------------------
+TEST NUMBER 1/inf: 1115inf at time Sun Nov  3 11:22:17 2019
+Download Speed (1): 8328KB/s. 8.1328125MB/s
+Ping:(30.361, 76.7978)
+Upload Speed (1): 498KB/s. 0.486328125MB/s
